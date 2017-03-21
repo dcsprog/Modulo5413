@@ -14,7 +14,7 @@ public class Principal {
 	char opc, op;
 	Scanner n = new Scanner(System.in);
 	
-	
+	//
 	/*do{
 		//System.out.print("Nome: ");
 		//String nome=n.next();
